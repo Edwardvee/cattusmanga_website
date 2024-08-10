@@ -3,4 +3,4 @@ My 2022 school project. A manga website that would include a membership system. 
 
 
 # How to run
-Open XAMPP and start your Apache and MySql server, import the cattusmanga database stored in server folder. Finally access it at localhost/htdocs/cattusmanga_website
+Open XAMPP and start your Apache and MySql server, import the cattusmanga database stored in server folder. Finally copy it and access it at localhost/htdocs/cattusmanga_website
